@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Privacy Policy – Lumen Music Player - MP3</title>
+<meta name="description" content="Privacy Policy for Lumen Music Player - MP3 by CraftHorizon.">
+<style>
+:root{--g:#171928;--g2:#B5651D;--lg:#FFF3E0;--gold:#FFB84D;--ink:#1C1B22;--muted:#5E5C68;--bg:#FAF7F2;--card:#FFFFFF;--line:#EFE3D2}
+@media (prefers-color-scheme:dark){:root{--ink:#F4F1EA;--muted:#A9A8B8;--bg:#0E0F1A;--card:#171928;--lg:#212438;--line:#2C2F47;--g:#E8932A;--g2:#FFB84D}}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.65 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif}
+.hero{background:linear-gradient(135deg,#0E0F1A,#212438);color:#fff;padding:32px 16px 28px;border-bottom:3px solid #FFB84D}
+.hero .in,.wrap{max-width:760px;margin:0 auto}
+.eyebrow{letter-spacing:.18em;font-size:12px;font-weight:700;color:#FFB84D;margin:0 0 6px}
+.hero h1{margin:0;font-size:clamp(24px,6vw,34px);line-height:1.2}
+.hero p.meta{margin:10px 0 0;color:#D8D6E3;font-size:14px}
+.wrap{padding:0 16px 40px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:20px 18px;margin-top:-14px;box-shadow:0 6px 20px rgba(0,0,0,.06)}
+details.toc{background:var(--lg);border-radius:10px;padding:10px 14px;margin:6px 0 18px}
+details.toc summary{cursor:pointer;font-weight:700;color:var(--g2);min-height:44px;display:flex;align-items:center}
+details.toc ol{margin:6px 0 4px;padding-left:20px}
+details.toc li{margin:6px 0}
+h2{display:flex;align-items:center;gap:10px;color:var(--g2);font-size:20px;line-height:1.3;margin:30px 0 10px;padding-bottom:8px;border-bottom:2px solid var(--gold);scroll-margin-top:12px}
+h2 .num{flex:0 0 auto;display:inline-grid;place-items:center;width:30px;height:30px;border-radius:50%;background:var(--g);color:#fff;font-size:14px}
+h3{margin:0 0 8px;color:var(--g2);font-size:17px}
+p{margin:0 0 12px}
+ul,ol{margin:0 0 14px;padding-left:22px}
+li{margin:6px 0}
+ul li::marker{color:var(--g2)}
+ol li::marker{color:var(--g2);font-weight:700}
+a{color:var(--g2);word-break:break-word;text-underline-offset:2px}
+strong{color:var(--g2)}
+.box{background:var(--lg);border:1px solid var(--line);border-left:5px solid var(--gold);border-radius:10px;padding:16px;margin:16px 0}
+.kv{margin:4px 0}
+footer{text-align:center;color:var(--muted);font-size:13px;margin-top:22px}
+@media (min-width:600px){.card{padding:28px 32px}body{font-size:17px}}
+</style>
+</head>
+<body>
+<header class="hero"><div class="in">
+<p class="eyebrow">PRIVACY POLICY</p>
+<h1>Lumen Music Player - MP3</h1>
+<p class="meta">Last updated: November 8, 2026 · CraftHorizon</p>
+</div></header>
+<main class="wrap"><article class="card">
+<details class="toc"><summary>Contents</summary><ol><li><a href="#s1">1. Summary</a></li><li><a href="#s2">2. Permissions and Your Music Files</a></li><li><a href="#s3">3. Information Stored Only on Your Device</a></li><li><a href="#s4">4. Advertising (Google AdMob and Its Ad Partners)</a></li><li><a href="#s5">5. Consent and Your Ad Choices</a></li><li><a href="#s6">6. Links to Other Websites and Apps</a></li><li><a href="#s7">7. Data Retention and Deletion</a></li><li><a href="#s8">8. How We Share Information</a></li><li><a href="#s9">9. Data Security</a></li><li><a href="#s10">10. Your Rights</a></li><li><a href="#s11">11. Children&#x27;s Privacy</a></li><li><a href="#s12">12. Changes to This Privacy Policy</a></li><li><a href="#s13">13. Contact Us</a></li></ol></details>
+<p>This Privacy Policy explains what information the Lumen Music Player - MP3 mobile application ("Lumen Music", "the app", "we", "our") collects, how it is used and shared, and the choices you have. It applies to the Android app published on Google Play by CraftHorizon (package: com.crafthorizon.lumenmusic).</p>
+<p>If you do not agree with this Privacy Policy, please do not install or use the app.</p>
+
+<h2 id="s1"><span class="num">1</span>Summary</h2>
+<ul>
+<li>Lumen Music is an offline player for the music files already on your phone. It does not stream music and has no online library.</li>
+<li>No account or registration is required.</li>
+<li>Your music files, playlists, favorites, listening history and settings stay on your phone. They are never uploaded to us.</li>
+<li>We do not collect your real name, email address, phone number, precise (GPS) location, contacts, photos, camera or microphone, or payment information.</li>
+<li>The app shows ads through Google AdMob, which may also fill ads from its partner networks Unity Ads and Meta Audience Network. These ad services collect device identifiers and related data to show and measure ads.</li>
+<li>The app contains no analytics SDK, no Firebase and no in-app purchases.</li>
+<li>We do not sell your data.</li>
+</ul>
+
+<h2 id="s2"><span class="num">2</span>Permissions and Your Music Files</h2>
+<p>The app asks only for the access it needs to play your music. Each permission is used on your phone only:</p>
+<ul>
+<li><strong>Music and audio</strong> (READ_MEDIA_AUDIO on Android 13 and later, or storage access on Android 12 and earlier): to find the songs on your phone and show their title, artist, album, duration, folder and album cover. The app only reads these files; it never uploads, copies or shares them.</li>
+<li><strong>Background playback</strong> (foreground service and wake lock): to keep playing music with the screen off and to show the playback controls in the notification, on the lock screen, on the home-screen widget, and on connected Bluetooth devices or Android Auto.</li>
+<li><strong>Modify system settings</strong> (WRITE_SETTINGS): asked only if you use the ringtone maker and choose to set a ringtone. It is used only to set the ringtone you created.</li>
+<li><strong>Storage write</strong> (Android 9 and earlier only): to save a ringtone you created in your phone's Ringtones folder.</li>
+</ul>
+<p>The optional <strong>"Shake to skip"</strong> feature reads the phone's motion sensor (accelerometer) while the app is open to detect a shake. Motion data is not stored or sent anywhere.</p>
+<p>When you import a lyrics file, you pick it yourself with Android's file picker. The app reads only the file you choose.</p>
+<p>When music is playing, Android shows the song title, artist and cover to the system media controls (notification, lock screen, connected Bluetooth devices, Android Auto and the home-screen widget). This information stays between the app and your devices and is not sent to us.</p>
+
+<h2 id="s3"><span class="num">3</span>Information Stored Only on Your Device</h2>
+<p>The app saves the following data locally on your phone so it works between sessions: your favorites and playlists, song details you edit (title, artist, album), songs and folders you choose to hide, play counts, recently played songs and listening history (used for the weekly statistics), the queue and position to resume playback, imported lyrics, equalizer and sleep timer settings, your other settings, Ad-Free Break time, and simple counters used to space out ads fairly. Ringtones you create are saved as audio files on your phone.</p>
+<p>This data is never uploaded to us. Uninstalling the app or clearing its data in Android settings deletes it permanently (ringtones you created stay in your Ringtones folder until you delete them). You can also clear your listening history in the app: Statistics &gt; Clear history.</p>
+
+<h2 id="s4"><span class="num">4</span>Advertising (Google AdMob and Its Ad Partners)</h2>
+<p>Lumen Music is free and supported by ads served through Google AdMob. The app shows:</p>
+<ul>
+<li>Banner ads on browsing screens (such as the library and statistics screens), never on the Now Playing screen or in Car mode</li>
+<li>Interstitial ads at natural breaks, never while you are driving in Car mode</li>
+<li>App open ads when you return to the app after some time</li>
+<li>Rewarded ads, only if you choose to watch one (for example to start a 30-minute Ad-Free Break)</li>
+</ul>
+<p>To show, measure and protect ads, the Google Mobile Ads SDK and the partner SDKs described below may automatically collect:</p>
+<ul>
+<li>Device or other identifiers, such as the Android Advertising ID</li>
+<li>IP address, which may be used to estimate your approximate location (country or region)</li>
+<li>App interactions with ads, such as ad views and taps</li>
+<li>Diagnostic information, such as ad loading performance and crash logs related to ads</li>
+</ul>
+<p>This data is used for advertising, ad measurement, analytics of ad performance, and fraud prevention. It is processed by Google under its own policies:</p>
+<ul>
+<li><strong>Google Privacy Policy:</strong> <a href="https://policies.google.com/privacy">https://policies.google.com/privacy</a></li>
+<li><strong>How Google uses data from apps that use its services:</strong> <a href="https://policies.google.com/technologies/partner-sites">https://policies.google.com/technologies/partner-sites</a></li>
+</ul>
+<p><strong>Ad partners (mediation).</strong> To fill more ad requests, AdMob may pass an ad request to one of these partner networks, whose SDKs are included in the app:</p>
+<ul>
+<li><strong>Unity Ads (Unity Technologies):</strong> <a href="https://unity.com/legal/game-player-and-app-user-privacy-policy">https://unity.com/legal/game-player-and-app-user-privacy-policy</a></li>
+<li><strong>Meta Audience Network (Meta Platforms):</strong> <a href="https://www.facebook.com/privacy/policy">https://www.facebook.com/privacy/policy</a></li>
+</ul>
+<p>When a partner shows an ad, its SDK may collect the same kinds of data listed above (device identifiers, IP address and approximate location, ad interactions, diagnostics) for the same purposes, under its own privacy policy. The app only sends AdMob ad unit IDs; it never sends your music files, playlists or listening history to any ad network.</p>
+
+<h2 id="s5"><span class="num">5</span>Consent and Your Ad Choices</h2>
+<p>If you are in the European Economic Area, the United Kingdom, Switzerland, or another region where consent is required, the app shows Google's consent form (Google User Messaging Platform) before loading any ads. You can choose whether to allow personalized ads. Your choice applies to Google and to its ad partners: Meta Audience Network reads it through AdMob, and the app passes it to Unity Ads directly.</p>
+<p>You can change your choice at any time in the app: Settings &gt; Privacy options.</p>
+<p>You can also:</p>
+<ul>
+<li>Reset your Advertising ID or opt out of ads personalization: Android Settings &gt; Privacy &gt; Ads (or Settings &gt; Google &gt; Ads)</li>
+<li><strong>Learn more about ad personalization:</strong> <a href="https://adssettings.google.com">https://adssettings.google.com</a></li>
+</ul>
+<p>If you opt out, you will still see ads, but they will be less relevant to you.</p>
+
+<h2 id="s6"><span class="num">6</span>Links to Other Websites and Apps</h2>
+<p>The app contains a few links that open outside the app: this Privacy Policy, our developer page on Google Play ("More apps"), and the app's Google Play page ("Rate Lumen Music"). These open in your browser or the Google Play app, which have their own privacy policies. The app itself sends no data when you tap them.</p>
+
+<h2 id="s7"><span class="num">7</span>Data Retention and Deletion</h2>
+<ul>
+<li>We do not keep any data about you on our own servers. The app has no servers, no accounts and no online features.</li>
+<li>Data stored on your phone is deleted when you uninstall the app or clear its data.</li>
+<li>Advertising data collected by Google and its ad partners (Unity Ads, Meta Audience Network) is kept according to their own retention policies. You can reset your Advertising ID at any time in Android settings.</li>
+</ul>
+<p>Because the app has no user accounts, there is no account to delete. For any deletion request or question, contact us at the email address in Section 13.</p>
+<div class="box" id="delete"><h3>How to request deletion of your data</h3>
+<p>To request deletion of data related to Lumen Music Player - MP3 (developer: CraftHorizon):</p>
+<ol>
+<li>Send an email to <a href="mailto:shopyhoot@gmail.com">shopyhoot@gmail.com</a> with the subject "Lumen Music - Delete my data".</li>
+<li>We will answer within 30 days and explain how to delete each kind of data listed below.</li>
+</ol>
+<p><strong>What we hold:</strong> nothing. The app never sends your music, playlists or listening history to us, so we have no records about you to delete.</p>
+<p>Data stored on your phone (favorites, playlists, edited song details, listening history, imported lyrics and settings) can be deleted by you at any time: in the app (Statistics &gt; Clear history for your listening history), by uninstalling the app, or in Android Settings &gt; Apps &gt; Lumen Music &gt; Storage &gt; Clear data. Your music files themselves are never changed or deleted by the app.</p>
+<p>Advertising data collected by Google AdMob and its ad partners is controlled by them. You can reset your Advertising ID or delete it in Android Settings &gt; Privacy &gt; Ads, manage your Google data at <a href="https://myaccount.google.com/data-and-privacy">https://myaccount.google.com/data-and-privacy</a>, and contact Unity or Meta through the privacy policies linked in Section 4.</p>
+</div>
+
+<h2 id="s8"><span class="num">8</span>How We Share Information</h2>
+<p>We do not sell your personal information. Data is shared only:</p>
+<ul>
+<li>With Google (AdMob) and its ad partners Unity Ads and Meta Audience Network, as described in Section 4, to show and measure ads</li>
+<li>When required by law, a court order or a government authority, or to protect the rights, safety and security of our users and the app</li>
+</ul>
+
+<h2 id="s9"><span class="num">9</span>Data Security</h2>
+<p>Your music files and app data never leave your phone. Data sent by the ads SDKs to Google and its ad partners is encrypted in transit (HTTPS/TLS). No method of transmission or storage is 100% secure, but we use reasonable measures to protect the data.</p>
+
+<h2 id="s10"><span class="num">10</span>Your Rights</h2>
+<p>Depending on where you live (for example under the GDPR in Europe and the UK, or under US state privacy laws such as the CCPA/CPRA in California), you may have the right to access, correct or delete your personal data, object to or restrict its processing, withdraw your consent, opt out of targeted advertising, and lodge a complaint with your local data protection authority.</p>
+<p>Because we do not keep personal data about you outside your device, most of these rights can be exercised directly in the app or in your device settings: change your consent in Settings &gt; Privacy options, reset your Advertising ID, clear your listening history, or uninstall the app. For anything else, contact us at the email address in Section 13. We will answer within 30 days.</p>
+
+<h2 id="s11"><span class="num">11</span>Children&#x27;s Privacy</h2>
+<p>Lumen Music is intended for users aged 13 and over. It is not designed for or directed at children under 13, and we do not knowingly collect personal information from children under 13. If you believe a child under 13 has used the app, contact us and we will help.</p>
+
+<h2 id="s12"><span class="num">12</span>Changes to This Privacy Policy</h2>
+<p>We may update this Privacy Policy when the app, our third-party services, or the law changes. When we do, we will update the "Last updated" date at the top of this page. Please review it from time to time.</p>
+
+<h2 id="s13"><span class="num">13</span>Contact Us</h2>
+<p>If you have any questions or requests about this Privacy Policy or your data, contact us:</p>
+<p class="kv"><strong>Email:</strong> <a href="mailto:shopyhoot@gmail.com">shopyhoot@gmail.com</a></p>
+<p class="kv"><strong>Developer:</strong> CraftHorizon</p>
+</article>
+<footer>© 2026 CraftHorizon · Lumen Music Player - MP3</footer>
+</main>
+</body>
+</html>
